@@ -1,0 +1,20 @@
+body 
+{
+  background-color: bisque;
+  font-family: Bai Janjuree;
+}
+footer 
+{
+  background-color:black;
+  color:white;
+  position:fixed;
+  botton:0;
+  width:100%
+  height:zrem;
+}
+footer q
+{
+  text-align:center;
+  font size: 0,6 rem;
+  margin-top:0,5 rem;
+}
